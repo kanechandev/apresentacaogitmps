@@ -1,0 +1,10 @@
+input[type=text]{
+    color: red;
+}
+
+p {
+    color: blue;
+    font-size: larger;
+    border: 1px solid;
+    padding: 5px;
+}
